@@ -1,4 +1,4 @@
-package com.github.florent37.slidr;
+package com.github.tamizhan.slidr;
 
 import android.app.Application;
 

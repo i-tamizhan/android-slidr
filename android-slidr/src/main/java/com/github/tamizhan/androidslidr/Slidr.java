@@ -1,4 +1,4 @@
-package com.github.florent37.androidslidr;
+package com.github.tamizhan.androidslidr;
 
 import android.animation.ValueAnimator;
 import android.app.Activity;

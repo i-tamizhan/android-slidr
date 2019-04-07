@@ -10,9 +10,9 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:padding="15dp"
-        tools:context="com.github.florent37.slidr.MainActivity">
+        tools:context="com.github.tamizhan.slidr.MainActivity">
 
-        <com.github.florent37.androidslidr.Slidr
+        <com.github.tamizhan.androidslidr.Slidr
             android:layout_width="250dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -21,7 +21,7 @@
             app:slidr_regions_centerText="false" />
 
 
-        <com.github.florent37.androidslidr.Slidr
+        <com.github.tamizhan.androidslidr.Slidr
             android:id="@+id/slideure"
             android:layout_width="250dp"
             android:layout_height="wrap_content"
@@ -31,7 +31,7 @@
             app:slidr_step_colorizeAfterLast="true" />
 
 
-        <com.github.florent37.androidslidr.Slidr
+        <com.github.tamizhan.androidslidr.Slidr
             android:id="@+id/slideure_regions"
             android:layout_width="250dp"
             android:layout_height="wrap_content"
@@ -45,7 +45,7 @@
             app:slidr_regions_textFollowRegionColor="true" />
 
 
-        <com.github.florent37.androidslidr.Slidr
+        <com.github.tamizhan.androidslidr.Slidr
             android:id="@+id/slideure2"
             android:layout_width="250dp"
             android:layout_height="wrap_content"

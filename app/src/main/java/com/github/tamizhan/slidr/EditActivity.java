@@ -1,10 +1,10 @@
-package com.github.florent37.slidr;
+package com.github.tamizhan.slidr;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-import com.github.florent37.androidslidr.Slidr;
+import com.github.tamizhan.androidslidr.Slidr;
 
 /**
  * Created by florentchampigny on 24/05/2017.

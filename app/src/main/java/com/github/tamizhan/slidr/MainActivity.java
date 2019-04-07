@@ -1,13 +1,11 @@
-package com.github.florent37.slidr;
+package com.github.tamizhan.slidr;
 
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
-import android.widget.Toast;
 
-import com.github.florent37.androidslidr.Slidr;
+import com.github.tamizhan.androidslidr.Slidr;
 
 public class MainActivity extends AppCompatActivity {
 
