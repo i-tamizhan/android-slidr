@@ -526,7 +526,7 @@ public class Sushi extends FrameLayout {
 
         @Override
         public String format(float value) {
-            return String.format("%d €", (int) value);
+            return String.format("%d ", (int) value);
         }
     }
 }
